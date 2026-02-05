@@ -1,0 +1,46 @@
+@charset "utf-8";
+.mastr{
+background: url("28.jpg");
+background-repeat: no-repeat;
+background-size: 1417px 2000px;
+width: 1417px;
+height: 2000px;
+margin-right: auto;
+margin-left: auto;
+position: relative;
+}
+.ASHOB2{
+	text-align: center;
+	font-size: 22px;
+	color: #FFF6F6;
+	opacity: 1;
+}
+.ASHOB1{
+text-align: center;
+color: hsla(176,39%,50%,1.00)
+}
+h2{
+text-align: center;
+color: aliceblue;
+tab-size: 20px; 
+}
+audio {
+  display: block;
+  margin: 0 auto;   
+}
+.ASHOB{
+width: 350px;
+height: 60px;
+margin-left: auto;
+margin-right: auto;
+animation: fadeUp 2s ease forwards;
+padding: 20px;
+border-radius: 15px;
+}.music-box {
+  width: 40%;                      /* عرض باکس */
+  margin: 0 auto;                 /* وسط صفحه */
+  padding: 30px;                  /* فاصله داخلی */
+  background: rgba(0, 0, 0, 0.4);  /* 🔴 کم‌رنگ */
+  border-radius: 20px;            /* گوشه نرم */
+  backdrop-filter: blur(6px);     /* 🔥 افکت شیشه‌ای */
+}
